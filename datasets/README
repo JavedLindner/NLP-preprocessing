@@ -1,0 +1,5 @@
+Datasets combined from downloads of the ICML, ICLR and NEURIPS
+website (CSV format)
+
+as well as an arxiv JSON file (condensed matter) as well as a reduced version of the arxiv file
+processed as csv.
